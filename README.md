@@ -1,1 +1,16 @@
-# Website-Test
+<!DOCTYPE html>
+<html>	
+	<head>
+		<title> Welcome to CIS 3120! </title>
+	</head>
+
+	<body>
+		<!-- This is a comment!! --> 
+		<h1> Welcome to CIS 3120!</h1>
+
+		<p> Here we learn programming for analytics!</p>
+	</body>
+
+
+
+</html> 
